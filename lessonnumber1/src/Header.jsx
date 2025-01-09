@@ -13,6 +13,8 @@ export function Header() {
             <span>Home</span>
             <span>About</span>
             <span>Contact</span>
+            <span>CourseInfo</span>
+
         </nav>
         <button className={styles.btnsignup}>
             SIGN UP
