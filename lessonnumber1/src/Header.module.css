@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    width: 100%;
+    border: 1.5px solid white;
+    border-radius: 15px;
+    background-color: rgb(108, 108, 221);
+}
+.imglogo{
+    width: 150px;
+    height: auto;
+}
+.navbar{
+    font-size: 20px;
+    display: flex;
+    gap: 40px;
+    cursor: pointer;
+}
+.btnsignup{
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    font: bold;
+    color: white;
+    margin-right: 25px;
+    cursor: pointer;
+
+}

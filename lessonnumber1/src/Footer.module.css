@@ -1,0 +1,25 @@
+.foot{
+    position: fixed;
+    bottom: 5px;
+    background-color: rgb(108, 108, 221);
+    width: 99%;
+    height: 100px;
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px 0;
+    
+}
+   
+    
+
+.foot h1{
+    font-size: 20px;
+    color: white;
+}
+    
+.foot p{
+    font-size: 14px;
+    color: rgb(219, 219, 219);
+    font-style: normal;
+    font: bolder;
+}

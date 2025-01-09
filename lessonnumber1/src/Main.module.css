@@ -1,0 +1,27 @@
+.maincontent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(108, 108, 221);
+    color: white;
+    height: 705px;
+    width: auto;
+    border-radius: 15px;
+    
+
+}
+.imgmaincontent{
+    width: 500px;
+    border-radius: 25px;
+    border: 2px dotted white;
+}
+.cont{
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 100px;
+}
+.cont h1{
+    margin-top: 50px;
+}
